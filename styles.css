@@ -6,6 +6,7 @@
  div :first-child{
 	background-color:black;
 	color:white;
+	Font size:22px.
 }
 
  div :last-child{
